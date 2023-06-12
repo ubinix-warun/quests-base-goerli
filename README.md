@@ -12,6 +12,7 @@ Try running quest of the following tasks:
 ```shell
 npx hardhat compile
 npx hardhat run scripts/deploy.ts --network base-goerli
+
 npx hardhat verify --network base-goerli <deployed address>
 
 ```
