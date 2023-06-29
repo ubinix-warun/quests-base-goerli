@@ -1,4 +1,4 @@
-# Quests Base Goerli
+# Quests Base 🔵 Goerli
 
 This project demonstrates a basic NFT sol. It comes with a sample NFT contract, a test for that contract, and a script that deploys that contract.
 
